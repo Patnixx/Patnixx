@@ -4,7 +4,7 @@
 </div>
 
 - 🔭 I’m currently working on: **| Personal projects & Learning |**
-- 🌱 I’m currently learning: **| Laravel |**
+- 🌱 I’m currently learning: **| Laravel & Vue.js |**
 - 📫 How to reach me: **| patrik.nemcok33@gmail.com |**
 - ⚡ Fun fact **| I'm a very spontaneous person. |**
 <h3 align="center">Languages and Tools:</h3>
